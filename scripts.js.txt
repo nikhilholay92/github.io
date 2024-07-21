@@ -1,0 +1,7 @@
+// scripts.js
+
+// Example: Log a message when the form is submitted
+document.querySelector('form').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent form submission
+    console.log('Form submitted!');
+});
