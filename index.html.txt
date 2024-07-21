@@ -24,7 +24,7 @@
 
     <section id="about">
         <h2>About Nikhil Holay</h2>
-        <p>Nikhil Holay is a software engineer with a passion for technology and innovation. He specializes in web development and data science.</p>
+        <p>Nikhil Holay is a software engineer with a passion for technology and innovation. </p>
     </section>
 
     <section id="contact">
